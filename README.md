@@ -1,4 +1,7 @@
-ML PhD@Northwestern IEMS.
+Curr:</br>
+PhD@NorthwesternU</br>
+@TildeResearch @TogetherAI
 
-
-Undergrad@University of Science and Technology of China.
+Prev:</br>
+@Snowflake @Sensetime</br>
+undergrad@University of Science and Technology of China.
